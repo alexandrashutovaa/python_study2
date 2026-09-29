@@ -1,0 +1,3 @@
+[submodule "ant-pcb-lib"]
+	path = ant-pcb-lib
+	url = [git@proxy2.cod.phystech.edu:10158]:ant-sat/pcb/ant-pcb-lib.git
